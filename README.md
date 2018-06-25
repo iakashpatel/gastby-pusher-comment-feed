@@ -34,6 +34,3 @@ Tool used to Build:
 * [Gatsby.js](https://www.gatsbyjs.org/)
 * [React](https://reactjs.org/)
 * [Pusher](https://pusher.com/)# gatsby-starter-default
-The default Gatsby starter.
-
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
